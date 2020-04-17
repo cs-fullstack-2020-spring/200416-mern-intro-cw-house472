@@ -1,5 +1,9 @@
 # 20-04-16 MERN Intro CW - Create and Read All
 
+### Good progress on your backend. Curious to know what you spent the most time on in the assignment. Seems like you were building a little and testing a little +1 for that!!
+
+### Score : 2/5
+
 ### File Structure + Set Up
 - Create a directory called `server` - this is where our server will be 
 - Create a react app called `client` - this is where our react app will be
